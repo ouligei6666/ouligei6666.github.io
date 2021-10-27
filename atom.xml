@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ouligei6666.github.io</id>
     <title>Zzh&apos;s 考研之路</title>
-    <updated>2021-10-27T10:23:37.597Z</updated>
+    <updated>2021-10-27T10:45:34.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ouligei6666.github.io"/>
     <link rel="self" href="https://ouligei6666.github.io/atom.xml"/>
@@ -17,6 +17,9 @@
         </link>
         <updated>2021-10-27T08:37:25.000Z</updated>
         <content type="html"><![CDATA[<h1 id="浏览器广告屏蔽神器ublock-orgin">浏览器广告屏蔽神器——uBlock Orgin</h1>
+<p>##效果对比图<br>
+<img src="https://ouligei6666.github.io/post-images/1635331458661.png" alt="" loading="lazy"><br>
+<img src="https://ouligei6666.github.io/post-images/1635331490494.png" alt="" loading="lazy"></p>
 <h2 id="优点">优点</h2>
 <p>免费，屏蔽广告效果较好。同类插件，Adblock 和 Adgurd都要付费。</p>
 <h2 id="安装过程">安装过程</h2>
