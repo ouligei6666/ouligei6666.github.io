@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ouligei6666.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-10-27T08:47:21.433Z</updated>
+    <title>Zzh&apos;s 考研之路</title>
+    <updated>2021-10-27T08:50:18.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ouligei6666.github.io"/>
     <link rel="self" href="https://ouligei6666.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://ouligei6666.github.io/images/avatar.png</logo>
     <icon>https://ouligei6666.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Zzh&apos;s 考研之路</rights>
     <entry>
         <title type="html"><![CDATA[浏览器广告屏蔽插件——uBlock Orgin]]></title>
         <id>https://ouligei6666.github.io/post/liu-lan-qi-guang-gao-ping-bi-cha-jian-ublock-orgin/</id>
